@@ -29,3 +29,30 @@
 - Reload Time: 2s
 - Ammo Per Clip: 20
 - Max Clips: 9999
+
+## 8ch's Pistol:
+- Player Damage: 35 (45 head)
+- Automatic: No
+- Recoil: 0.25s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 15
+- Max Clips: 9999
+
+## 8ch's Rifle:
+- Player Damage: 75 (90 head)
+- Automatic: No
+- Recoil: 0.6s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 12
+- Max Clips: 9999
+
+## 8ch's SMG:
+- Player Damage: 12 (15 head)
+- Automatic: Yes
+- Recoil: 0.1s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 15
+- Max Clips: 9999

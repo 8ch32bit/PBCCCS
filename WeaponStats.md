@@ -32,6 +32,8 @@
 - Ammo Per Clip: 20
 - Max Clips: 9999
 
+# MODERATOR/EXCLUSIVE GUNS
+
 ## 8ch's Pistol:
 - Player Damage: 35 (45 head)
 - Automatic: No

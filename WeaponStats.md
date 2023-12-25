@@ -5,6 +5,95 @@
 
 # GUNS
 
+# RANKED
+
+## PBST Pistol:
+- Player Damage: 15 (25 head)
+- Automatic: No
+- Recoil: 0.25s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 15
+- Max Clips: 9999
+
+## PBST Rifle:
+- Player Damage: 50 (75 head)
+- Automatic: No
+- Recoil: 0.6s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 12
+- Max Clips: 9999
+
+## TMS Pistol:
+- Player Damage: 15 (25 head)
+- Automatic: No
+- Recoil: 0.25s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 15
+- Max Clips: 9999
+
+## TMS Rifle:
+- Player Damage: 50 (75 head)
+- Automatic: No
+- Recoil: 0.6s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 12
+- Max Clips: 9999
+
+# HR WEAPONS
+
+## UPG Rifle:
+- Player Damage: 75 (90 head)
+- Automatic: No
+- Recoil: 0.6s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 12
+- Max Clips: 9999
+
+## UPG TMS Rifle:
+- Player Damage: 75 (90 head)
+- Automatic: No
+- Recoil: 0.6s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 12
+- Max Clips: 9999
+
+# MODERATOR GUNS
+
+## Darkmatter Pistol:
+- Player Damage: 500 (750 head)
+- Automatic: No
+- Recoil: 0.25s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 15
+- Max Clips: 9999
+
+## Darkmatter Rifle:
+- Player Damage: 1000 (1500 head)
+- Automatic: No
+- Recoil: 0.6s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 15
+- Max Clips: 9999
+
+## Darkmatter SMG:
+- Player Damage: 150 (250 head)
+- Automatic: Yes
+- Recoil: 0.08s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 20
+- Max Clips: 9999
+
+# TESTER GUNS
+
 ## Test Pistol:
 - Player Damage: 15 (25 head)
 - Automatic: No
@@ -32,7 +121,16 @@
 - Ammo Per Clip: 20
 - Max Clips: 9999
 
-# MODERATOR/EXCLUSIVE GUNS
+# EXCLUSIVE GUNS
+
+## Antimatter Rifle:
+- Player Damage: 30000 (60000 head)
+- Automatic: No
+- Recoil: 0.25s
+- Projectile Speed: 500
+- Reload Time: 2s
+- Ammo Per Clip: 12
+- Max Clips: 9999
 
 ## 8ch's Pistol:
 - Player Damage: 35 (45 head)

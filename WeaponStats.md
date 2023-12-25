@@ -3,6 +3,8 @@
 ### This list provides data essential for understanding how the weapons in PBCCCS work. Most of these weapons (if they are in PBCC) will replicate PBCC weapons.
 *Additional Info: For damage values, if sentry/field damage values aren't provided, it means that they are identical to player/humanoid damage (Will be headshot damage)*
 
+# GUNS
+
 ## Test Pistol:
 - Player Damage: 15 (25 head)
 - Automatic: No
